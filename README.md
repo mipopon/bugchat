@@ -26,7 +26,7 @@ Here's a list of tasks that you can accomplish to make it cooler:
 
 Lets go!
 
-![whatsapp screenshot](https://www.chip.de/ii/1/0/9/3/1/0/6/4/6/web_whatsapp-1d0159a68e13bb79.jpg)
+![whatsapp screenshot](./screenshot.png)
 
 ## Tips for making it smarter
 
